@@ -14,9 +14,9 @@
         "tab": "Инструкции",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Сеть магазинов",
             "pages": [
-              "index",
+              "network/network29",
               "quickstart",
               "development"
             ]
