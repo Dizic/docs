@@ -1,4 +1,8 @@
-# Руководство по командам Linux
+---
+title: "Команды Linux"
+description: "Команды Linux"
+sidebarTitle: "Команды Linux"
+---
 
 ## ИНФОРМАЦИЯ ОБ ОБОРУДОВАНИИ
 
