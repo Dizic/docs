@@ -16,7 +16,8 @@
           {
             "group": "Полезные инструменты",
             "pages": [
-              "linux_commands_guide"
+              "linux_commands_guide",
+              "voice_reset_guide"
             ]
           },
           {
