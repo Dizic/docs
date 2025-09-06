@@ -11,19 +11,25 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Полезные инструменты",
+        "tab": "Инструкции",
         "groups": [
           {
-            "group": "Команды Linux",
+            "group": "Полезные инструменты",
             "pages": [
               "linux_commands_guide"
+            ]
+          },
+          {
+            "group": "Весы",
+            "pages": [
+              "scale_calibration_guide"
             ]
           }
         
         ]
       },
       {
-        "tab": "Образы",
+        "tab": "Файлы и образа",
         "groups": [
           
         ]
