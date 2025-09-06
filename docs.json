@@ -11,12 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Инструкции",
+        "tab": "Полезные инструменты",
         "groups": [
           {
-            "group": "Сеть магазинов",
+            "group": "Команды Linux",
             "pages": [
-              "network/network29"
+              "linux_commands_guide"
             ]
           }
         
